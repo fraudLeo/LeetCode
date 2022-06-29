@@ -1,4 +1,4 @@
-package temp;
+package com.leo.leetcode.temp;
 
 import java.util.ArrayList;
 import java.util.HashSet;

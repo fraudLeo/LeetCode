@@ -1,4 +1,4 @@
-package temp;
+package com.leo.leetcode.LinkNode.LinkedListCycle;
 
 public class MiddleoftheLinkedList {
     public class ListNode {

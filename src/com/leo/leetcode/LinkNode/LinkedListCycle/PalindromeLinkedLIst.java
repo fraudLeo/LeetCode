@@ -1,4 +1,4 @@
-package temp;
+package com.leo.leetcode.LinkNode.LinkedListCycle;
 
 public class PalindromeLinkedLIst {
     public class ListNode {
