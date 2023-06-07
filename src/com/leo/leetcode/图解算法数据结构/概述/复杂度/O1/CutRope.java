@@ -23,6 +23,7 @@ package com.leo.leetcode.图解算法数据结构.概述.复杂度.O1;
  */
 public class CutRope {
 
+    //法一，数学推导
     public int cuttingRope(int n) {
         if(n<=3) return n-1;
         int a = n%3;
@@ -31,4 +32,7 @@ public class CutRope {
         if(a == 2 ) return (int)Math.pow(3,b)*2;
         return (int)Math.pow(3,b);
     }
+
+    //法二，贪心算法
+
 }
